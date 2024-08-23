@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, we will have a textarea input where we can write markdown and next to it see the result in html.
+In the project directory, in React.js we will have a textarea input where we can write markdown and next to it see the result in html.
 Some buttons heading 1, heading 2, bold, italic, horizontal line, etc. to insert automatically the markdown syntax in the textarea to facilitate de writing of the markdown.
 site deployment: https://markdown-xy3h.onrender.com .
 
